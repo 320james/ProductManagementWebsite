@@ -1,1 +1,1 @@
-Created a product management website using Angular.
+Created a product management website by learning through a tutorial on YouTube using Angular.
